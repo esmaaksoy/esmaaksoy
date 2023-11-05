@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="350"></br>
 
-## Hi there 👋 I am Esma  ✨ Frontend Developer ✨
+## Hi, I am Esma  ✨ Frontend Developer ^_^ 
 
-🎈 I'm Instructer Designer, but I quit my job to be a developer.<br>
-👩‍💻 I'm currently learning everything about software...<br>
-🚀 Nowadays I am studying as a Frontend Developer... 👩‍💻<br><br>
+🪄💫 I'm Instructional Designer, but I quit my job to be a developer.<br>
+🍃🍂 I'm currently learning everything about software...<br>
+🍁🍃 Nowadays I am studying as a Front-end Developer... 👩‍💻<br><br>
 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=esmaaksoy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="esmaaksoy" /> </p>
