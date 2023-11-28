@@ -61,5 +61,6 @@ Here are some ideas to get you started:
   ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Bootsrapt Project](https://esmaaksoy.github.io/Project-Bootstrap-2/)| Bootsrapt, CSS3, HTML5, JS |![todo](https://user-images.githubusercontent.com/118957608/222153239-9a73cc42-22f3-4910-bc9c-e668ec0f7494.gif) 
-[World Shop](https://world-shop.netlify.app/)| Bootsrapt,SASS,Vite,Vanilla,Local Storage |![world shop](https://github.com/esmaaksoy/world-shop/blob/main/world%20shop.gif) 
+[Image Gallery](https://velvety-capybara-b13135.netlify.app/)| React |![Image Gallery](https://github.com/esmaaksoy/image-galery/blob/master/image-gallery.gif) 
+[World Shop](https://world-shop.netlify.app/)| Bootstrap,SASS,Vite,Vanilla,Local Storage |![world shop](https://github.com/esmaaksoy/world-shop/blob/main/world%20shop.gif) 
+[Hogwarts](https://esmaaksoy.github.io/Hogwarts-Website/)| Bootstrap |![Hogwarts](https://github.com/esmaaksoy/Hogwarts-Website/blob/main/hogwarts.gif) 
