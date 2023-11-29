@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="350"></br>
+<img src="file:///C:/Users/esma/Desktop/me.gif" align="right" width="350"></br>
 
 ## Hi, I am Esma  ✨ Frontend Developer ^_^ 
 
