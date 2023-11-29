@@ -13,20 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="file:///C:/Users/esma/Desktop/me.gif" align="right" width="350"></br>
-
-## Hi, I am Esma  ✨ Frontend Developer ^_^ 
-
-🪄💫 I'm Instructional Designer, but I quit my job to be a developer.<br>
-🍃🍂 I'm currently learning everything about software...<br>
-🍁🍃 Nowadays I am studying as a Front-end Developer... 👩‍💻<br><br>
-
+<img src="https://github.com/esmaaksoy/images/blob/main/me.gif" width="100%"></br>
+## About Me
+<br>
+<p align="left"> 
+🪄💫 Once a computer science teacher, I am now making the transition to become a full-stack developer. Fueled by my passion for coding and a relentless desire to learn, I am dedicated to improving my skills across a range of technologies. I document the progress of my projects here. Happy coding!👩‍💻
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=esmaaksoy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="esmaaksoy" /> </p>
 
 
 
-### 📬 Connect with me:
+## 📬 Connect with me:
  
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esma-aksoy/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:esma.ea.aksoy@gmail.com)
