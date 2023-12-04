@@ -56,8 +56,9 @@ Here are some ideas to get you started:
 
 
   ## My projects
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[Image Gallery](https://velvety-capybara-b13135.netlify.app/)| React |![Image Gallery](https://github.com/esmaaksoy/image-galery/blob/master/image-gallery.gif) 
-[World Shop](https://world-shop.netlify.app/)| Bootstrap,SASS,Vite,Vanilla,Local Storage |![world shop](https://github.com/esmaaksoy/world-shop/blob/main/world%20shop.gif) 
-[Hogwarts](https://esmaaksoy.github.io/Hogwarts-Website/)| Bootstrap |![Hogwarts](https://github.com/esmaaksoy/Hogwarts-Website/blob/main/hogwarts.gif) 
+ | Project Name | Libraries and Technologies I use | How does my project look |
+|--------------|----------------------------------|---------------------------|
+| [M.Foucault](https://foucault.netlify.app/) | React, Module CSS | <img src="https://github.com/esmaaksoy/M.Foucault/blob/master/image/Screenshot%202023-12-03%20113612.png" width="200" height="200" alt="M.Foucault"> |
+| [Image Gallery](https://velvety-capybara-b13135.netlify.app/) | React | <img src="https://github.com/esmaaksoy/image-galery/blob/master/image-gallery.gif" width="200" height="200" alt="Image Gallery"> |
+| [World Shop](https://world-shop.netlify.app/) | Bootstrap, SASS, Vite, Vanilla, Local Storage | <img src="https://github.com/esmaaksoy/world-shop/blob/main/world%20shop.gif" width="200" height="200" alt="World Shop"> |
+| [Hogwarts](https://esmaaksoy.github.io/Hogwarts-Website/) | Bootstrap | <img src="https://github.com/esmaaksoy/Hogwarts-Website/blob/main/hogwarts.gif" width="200" height="200" alt="Hogwarts"> |
