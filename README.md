@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 [Horoscope](https://horoscope-mysite.netlify.app/)|  React, Module CSS | [Repo Link](https://github.com/esmaaksoy/horoscope) 
 [M.Foucault](https://foucault.netlify.app/)|  React, Module CSS | [Repo Link](https://github.com/esmaaksoy/M.Foucault) 
 [Image Gallery](https://velvety-capybara-b13135.netlify.app/)| React | [Repo Link](https://github.com/esmaaksoy/image-galery)
-[Developer](https://comments-developer.netlify.app/)|  React | [Repo Link](https://github.com/esmaaksoy/Developer) 
+[Developer](https://comments-developer.netlify.app/)|  React,SASS | [Repo Link](https://github.com/esmaaksoy/Developer) 
 [World Shop](https://world-shop.netlify.app/)| Bootstrap, SASS, Vite, Vanilla, Local Storage| [Repo Link](https://github.com/esmaaksoy/world-shop)
 [Checkout-Bootsrapt](https://explore-book.netlify.app/) | Bootstrap,Local Storage |[Repo Link](https://github.com/esmaaksoy/Checkout-Bootsrapt)
 [Hogwarts](https://esmaaksoy.github.io/Hogwarts-Website/) | Bootstrap |[Repo Link](https://github.com/esmaaksoy/Hogwarts-Website)
