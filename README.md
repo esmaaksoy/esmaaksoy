@@ -45,20 +45,23 @@ Here are some ideas to get you started:
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
 <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="100"height="40" /></a>  
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="firebase" height="40"/></a> 
-</p>
-
 <a href="https://mui.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png" alt="materialUI" height="40"/></a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/349375/github.svg" alt="gitHub" height="40"/></a> 
+</p>
+
+## My projects
+  Project Live Link      |Libraries and Technologies I use     | Project Repo Link   
+:-------------------------|-------------------------|-------------------------
+[Birthday](https://birthdaysofauthors.netlify.app/)|  React | [Repo Link](https://github.com/esmaaksoy/birthday) 
+[Horoscope](https://horoscope-mysite.netlify.app/)|  React, Module CSS | [Repo Link](https://github.com/esmaaksoy/horoscope) 
+[M.Foucault](https://foucault.netlify.app/)|  React, Module CSS | [Repo Link](https://github.com/esmaaksoy/M.Foucault) 
+[Image Gallery](https://velvety-capybara-b13135.netlify.app/)| React | [Repo Link](https://github.com/esmaaksoy/image-galery)
+[Developer](https://comments-developer.netlify.app/)|  React | [Repo Link](https://github.com/esmaaksoy/Developer) 
+[World Shop](https://world-shop.netlify.app/)| Bootstrap, SASS, Vite, Vanilla, Local Storage| [Repo Link](https://github.com/esmaaksoy/world-shop)
+[Checkout-Bootsrapt](https://explore-book.netlify.app/) | Bootstrap,Local Storage |[Repo Link](https://github.com/esmaaksoy/Checkout-Bootsrapt)
+[Hogwarts](https://esmaaksoy.github.io/Hogwarts-Website/) | Bootstrap |[Repo Link](https://github.com/esmaaksoy/Hogwarts-Website)
 
 
-
-  ## My projects
- | Project Name | Libraries and Technologies I use | How does my project look |
-|--------------|----------------------------------|---------------------------|
-| [M.Foucault](https://foucault.netlify.app/) | React, Module CSS | <img src="https://github.com/esmaaksoy/M.Foucault/blob/master/image/Screenshot%202023-12-03%20113612.png" width="200" height="200" alt="M.Foucault"> |
-| [Image Gallery](https://velvety-capybara-b13135.netlify.app/) | React | <img src="https://github.com/esmaaksoy/image-galery/blob/master/image-gallery.gif" width="200" height="200" alt="Image Gallery"> |
-| [World Shop](https://world-shop.netlify.app/) | Bootstrap, SASS, Vite, Vanilla, Local Storage | <img src="https://github.com/esmaaksoy/world-shop/blob/main/world%20shop.gif" width="200" height="200" alt="World Shop"> |
-| [Hogwarts](https://esmaaksoy.github.io/Hogwarts-Website/) | Bootstrap | <img src="https://github.com/esmaaksoy/Hogwarts-Website/blob/main/hogwarts.gif" width="200" height="200" alt="Hogwarts"> |
