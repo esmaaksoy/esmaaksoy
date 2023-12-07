@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 ## My projects
   Project Live Link      |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
+[Moving Button](https://moving-button-esma.netlify.app/)|  React, React-Bootstrap | [Repo Link](https://github.com/esmaaksoy/moving-button) 
 [Employee](https://listemployee.netlify.app/)|  React, SASS | [Repo Link](https://github.com/esmaaksoy/employee/tree/main?tab=readme-ov-file) 
 [Birthday](https://birthdaysofauthors.netlify.app/)|  React | [Repo Link](https://github.com/esmaaksoy/birthday) 
 [Horoscope](https://horoscope-mysite.netlify.app/)|  React, Module CSS | [Repo Link](https://github.com/esmaaksoy/horoscope) 
