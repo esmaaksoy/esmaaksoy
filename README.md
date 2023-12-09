@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 ## My projects
   Project Live Link      |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
+[Cyrano de Bergerac](https://cyrano-de-bergerac-esma.netlify.app/)| React, React-icons | [Repo Link](https://github.com/esmaaksoy/Cyrano-de-Bergerac) 
 [Words and Things](https://words-and-things-esma.netlify.app/)| React, React-icons, SASS | [Repo Link](https://github.com/esmaaksoy/Words-and-Things) 
 [İnterview Questions](https://interview-questions-esma.netlify.app/)| React, React-icons | [Repo Link](https://github.com/esmaaksoy/interview-questions) 
 [Moving Button](https://moving-button-esma.netlify.app/)|  React, React-Bootstrap | [Repo Link](https://github.com/esmaaksoy/moving-button) 
