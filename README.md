@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 ## My projects
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
+| [Dear Diary](#) | React,React-Bootstrap, React-icons, useState Hooks  | [Repo Link](https://github.com/esmaaksoy?tab=repositories)   |
 | [Random User](https://random-user-esma.netlify.app/) | React,SweetAlert2, useState useEffect Hooks, API, Async, Await  | [Repo Link](https://github.com/esmaaksoy/Random-User)   |
 | [Todo App](https://todo-app-esma.netlify.app/)      | React,React-icons, useState Hooks | [Repo Link](https://github.com/esmaaksoy/todo-app)     |
 | [Bookstore](https://bookstore-esma.netlify.app/)      | React, React-Bootstrap, React-icons, SASS | [Repo Link](https://github.com/esmaaksoy/bookstore)     |
