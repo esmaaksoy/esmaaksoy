@@ -56,17 +56,18 @@ Here are some ideas to get you started:
 ## My projects
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
-| [Todo App](https://todo-app-esma.netlify.app/)      | React,React-icons | [Repo Link](https://github.com/esmaaksoy/todo-app)     |
+| [Random User](https://random-user-esma.netlify.app/) | React,SweetAlert2, useState useEffect Hooks, API, Async, Await  | [Repo Link](https://github.com/esmaaksoy/Random-User)   |
+| [Todo App](https://todo-app-esma.netlify.app/)      | React,React-icons, useState Hooks | [Repo Link](https://github.com/esmaaksoy/todo-app)     |
 | [Bookstore](https://bookstore-esma.netlify.app/)      | React, React-Bootstrap, React-icons, SASS | [Repo Link](https://github.com/esmaaksoy/bookstore)     |
-| [Cyrano de Bergerac](https://cyrano-de-bergerac-esma.netlify.app/) | React, React-icons | [Repo Link](https://github.com/esmaaksoy/Cyrano-de-Bergerac) |
+| [Cyrano de Bergerac](https://cyrano-de-bergerac-esma.netlify.app/) | React, React-icons, CSS3 | [Repo Link](https://github.com/esmaaksoy/Cyrano-de-Bergerac) |
 | [Words and Things](https://words-and-things-esma.netlify.app/) | React, React-icons, SASS | [Repo Link](https://github.com/esmaaksoy/Words-and-Things) |
-| [İnterview Questions](https://interview-questions-esma.netlify.app/) | React, React-icons | [Repo Link](https://github.com/esmaaksoy/interview-questions) |
+| [İnterview Questions](https://interview-questions-esma.netlify.app/) | React, React-icons, CSS3 | [Repo Link](https://github.com/esmaaksoy/interview-questions) |
 | [Moving Button](https://moving-button-esma.netlify.app/) | React, React-Bootstrap | [Repo Link](https://github.com/esmaaksoy/moving-button) |
 | [Employee](https://listemployee.netlify.app/) | React, SASS | [Repo Link](https://github.com/esmaaksoy/employee/tree/main?tab=readme-ov-file) |
-| [Birthday](https://birthdaysofauthors.netlify.app/) | React | [Repo Link](https://github.com/esmaaksoy/birthday) |
+| [Birthday](https://birthdaysofauthors.netlify.app/) | React,CSS3 | [Repo Link](https://github.com/esmaaksoy/birthday) |
 | [Horoscope](https://horoscope-mysite.netlify.app/) | React, Module CSS | [Repo Link](https://github.com/esmaaksoy/horoscope) |
 | [M.Foucault](https://foucault.netlify.app/) | React, Module CSS | [Repo Link](https://github.com/esmaaksoy/M.Foucault) |
-| [Image Gallery](https://velvety-capybara-b13135.netlify.app/) | React | [Repo Link](https://github.com/esmaaksoy/image-galery) |
+| [Image Gallery](https://velvety-capybara-b13135.netlify.app/) | React, CSS3 | [Repo Link](https://github.com/esmaaksoy/image-galery) |
 | [Developer](https://comments-developer.netlify.app/) | React, SASS | [Repo Link](https://github.com/esmaaksoy/Developer) |
 | [World Shop](https://world-shop.netlify.app/) | Bootstrap, SASS, Vite, Vanilla, Local Storage | [Repo Link](https://github.com/esmaaksoy/world-shop) |
 | [Checkout-Bootsrapt](https://explore-book.netlify.app/) | Bootstrap, Local Storage | [Repo Link](https://github.com/esmaaksoy/Checkout-Bootsrapt) |
