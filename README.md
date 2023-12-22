@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 ## My projects
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
+| [Color Generator](https://color-generator-esma.netlify.app/) | React, useState and useEffect Hooks, CSS3  | [Repo Link](https://github.com/esmaaksoy/Color-Generator)   |
 | [BookStore-Checkout](https://our-bookstore-esma.netlify.app/) | React, Bootstrap, SweetAlert2, MOCK API, CRUD, axios, useState useEffect useNavigate Hooks, Router, CSS3  | [Repo Link](https://github.com/esmaaksoy/shopping)   |
 | [Wednesday](https://wednesday-esma.netlify.app/) | React, SASS, Bootstrap, Router  | [Repo Link](https://github.com/esmaaksoy/Wednesday)   |
 | [Tours](https://tours-esma.netlify.app/) | React,useState useEffect Hooks, API, Async, Await, CSS3  | [Repo Link](https://github.com/esmaaksoy/tours)   |
