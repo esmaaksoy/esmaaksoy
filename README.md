@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 ## My projects
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
+| [Things Shop](https://things-shop-esma.netlify.app/) | React, Tailwind, Context API, axios, useLocation useState useEffect and useNavigate Hooks, sweetAlert2 | [Repo Link](https://github.com/esmaaksoy/Things-Shop)   |
 | [Color Generator](https://color-generator-esma.netlify.app/) | React, useState and useEffect Hooks, CSS3  | [Repo Link](https://github.com/esmaaksoy/Color-Generator)   |
 | [BookStore-Checkout](https://our-bookstore-esma.netlify.app/) | React, Bootstrap, SweetAlert2, MOCK API, CRUD, axios, useState useEffect useNavigate Hooks, Router, CSS3  | [Repo Link](https://github.com/esmaaksoy/shopping)   |
 | [Wednesday](https://wednesday-esma.netlify.app/) | React, SASS, Bootstrap, Router  | [Repo Link](https://github.com/esmaaksoy/Wednesday)   |
