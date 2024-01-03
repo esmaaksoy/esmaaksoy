@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 ## My projects
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
+| [Todo List with Redux](https://todo-redux-esma.netlify.app/) | React, Redux, LocalStorage, MUI | [Repo Link](https://github.com/esmaaksoy/TodoList-with-Redux)   |
 | [Movie App](https://movie-app-esma.netlify.app/) | React, Firebase, Tailwind, Context API, axios, react-toastify | [Repo Link](https://github.com/esmaaksoy/Movie-App)   |
 | [Things Shop](https://things-shop-esma.netlify.app/) | React, Tailwind, Context API, axios, useLocation useState useEffect and useNavigate Hooks, sweetAlert2 | [Repo Link](https://github.com/esmaaksoy/Things-Shop)   |
 | [Color Generator](https://color-generator-esma.netlify.app/) | React, useState and useEffect Hooks, CSS3  | [Repo Link](https://github.com/esmaaksoy/Color-Generator)   |
