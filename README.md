@@ -1,24 +1,28 @@
 <img src="https://github.com/esmaaksoy/images/blob/main/IMG-20240116-WA0050.jpg" width="100%"></br>
-## About Me
+## ***About Me***
 <br>
 <p align="left"> 
-Once a computer science teacher, I am now making the transition to become a full-stack developer. Fueled by my passion for coding and a relentless desire to learn, I am dedicated to improving my skills across a range of technologies. I document the progress of my projects here. Happy coding!👩‍💻
+Once a computer science teacher, I am now making the transition to become a fullStack developer. Fueled by my passion for coding and a relentless desire to learn, I am dedicated to improving my skills across a range of technologies. I document the progress of my projects here. Happy coding!👩‍💻 
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=esmaaksoy&label=Profile%20views&color=ffd700&style=for-the-badge" alt="esmaaksoy" /> 
 </p>
 
-## Connect with me
+## ***Connect with me***
+<!--  
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esma-aksoy/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:esma.ea.aksoy@gmail.com)
 [![Medium](https://img.shields.io/badge/medium-000000.svg?&style=for-the-badge&logo=medium)](https://medium.com/@esma.ea.aksoy)
 <br>
-
-
-## Skills
+-->
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-ffd700.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esma-aksoy/)
+[![website](https://img.shields.io/badge/gmail-ffd700.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:esma.ea.aksoy@gmail.com)
+[![Medium](https://img.shields.io/badge/medium-ffd700.svg?&style=for-the-badge&logo=medium)](https://medium.com/@esma.ea.aksoy)
+<br>
+## ***Skills***
 <br>
 <p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
@@ -38,7 +42,7 @@ Once a computer science teacher, I am now making the transition to become a full
 <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/349375/github.svg" alt="gitHub" height="40"/></a> 
 </p>
 
-## My projects
+## ***My projects***
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
 | [Todo List with Redux](https://todo-redux-esma.netlify.app/) | React, Redux, LocalStorage, MUI | [Repo Link](https://github.com/esmaaksoy/TodoList-with-Redux)   |
