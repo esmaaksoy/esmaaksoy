@@ -14,21 +14,23 @@ Once a computer science teacher, I am now making the transition to become a full
 [![Medium](https://img.shields.io/badge/medium-%23FED794.svg?&style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@esma.ea.aksoy)
 <br>
 ## ***Skills***
-![React Badge](https://img.shields.io/badge/react-%23FED794.svg?style=for-the-badge&logo=react&logoColor=white)
-![Redux Badge](https://img.shields.io/badge/redux-%23FED794.svg?style=for-the-badge&logo=redux&logoColor=white)
+[![HTML5 Badge](https://img.shields.io/badge/html5-%23FED794.svg?style=for-the-badge&logo=html5&logoColor=white)](https://your-link-here)
 ![CSS Badge](https://img.shields.io/badge/css-%23FED794.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/javascript-%23FED794.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![React Badge](https://img.shields.io/badge/react-%23FED794.svg?style=for-the-badge&logo=react&logoColor=white)
+![Next.js Badge](https://img.shields.io/badge/next.js-%23FED794.svg?style=for-the-badge&logo=next-dot-js&logoColor=white)
+![Redux Badge](https://img.shields.io/badge/redux-%23FED794.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Firebase Badge](https://img.shields.io/badge/firebase-%23FED794.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%23FED794.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React Bootstrap Badge](https://img.shields.io/badge/react_bootstrap-%23FED794.svg?style=for-the-badge&logo=react&logoColor=white)
+![Sass Badge](https://img.shields.io/badge/sass-%23FED794.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS Badge](https://img.shields.io/badge/tailwind_css-%23FED794.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI Badge](https://img.shields.io/badge/material_ui-%23FED794.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/postman-%23FED794.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Sass Badge](https://img.shields.io/badge/sass-%23FED794.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Formik Badge](https://img.shields.io/badge/formik-%23FED794.svg?style=for-the-badge&logo=formik&logoColor=white)
 ![Yup Badge](https://img.shields.io/badge/yup-%23FED794.svg?style=for-the-badge&logo=yup&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/github-%23FED794.svg?style=for-the-badge&logo=github&logoColor=white)
-![Next.js Badge](https://img.shields.io/badge/next.js-%23FED794.svg?style=for-the-badge&logo=next-dot-js&logoColor=white)
+
 
  <!--  ## ***Skills***
 <br>
