@@ -30,7 +30,11 @@ Once a computer science teacher, I am now making the transition to become a full
 ![Formik Badge](https://img.shields.io/badge/formik-%23FED794.svg?style=for-the-badge&logo=formik&logoColor=white)
 ![Yup Badge](https://img.shields.io/badge/yup-%23FED794.svg?style=for-the-badge&logo=yup&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/github-%23FED794.svg?style=for-the-badge&logo=github&logoColor=white)
-
+[![TypeScript Badge](https://img.shields.io/badge/typescript-%23FED794.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://your-typescript-link-here)
+[![Python Badge](https://img.shields.io/badge/python-%23FED794.svg?style=for-the-badge&logo=python&logoColor=white)](https://your-python-link-here)
+[![Linux Badge](https://img.shields.io/badge/linux-%23FED794.svg?style=for-the-badge&logo=linux&logoColor=white)](https://your-linux-link-here)
+[![Figma Badge](https://img.shields.io/badge/figma-%23FED794.svg?style=for-the-badge&logo=figma&logoColor=white)](https://your-figma-link-here)
+[![Git Badge](https://img.shields.io/badge/git-%23FED794.svg?style=for-the-badge&logo=git&logoColor=white)](https://your-git-link-here)
 
  <!--  ## ***Skills***
 <br>
