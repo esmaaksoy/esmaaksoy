@@ -5,23 +5,34 @@
 Once a computer science teacher, I am now making the transition to become a fullStack developer. Fueled by my passion for coding and a relentless desire to learn, I am dedicated to improving my skills across a range of technologies. I document the progress of my projects here. Happy coding!👩‍💻 
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=esmaaksoy&label=Profile%20views&color=ffd700&style=for-the-badge" alt="esmaaksoy" /> 
+  <img src="https://komarev.com/ghpvc/?username=esmaaksoy&label=Profile%20views&color=FED794&style=for-the-badge" alt="esmaaksoy" /> 
 </p>
 
 ## ***Connect with me***
-<!--  
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esma-aksoy/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:esma.ea.aksoy@gmail.com)
-[![Medium](https://img.shields.io/badge/medium-000000.svg?&style=for-the-badge&logo=medium)](https://medium.com/@esma.ea.aksoy)
-<br>
--->
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-ffd700.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esma-aksoy/)
-[![website](https://img.shields.io/badge/gmail-ffd700.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:esma.ea.aksoy@gmail.com)
-[![Medium](https://img.shields.io/badge/medium-ffd700.svg?&style=for-the-badge&logo=medium)](https://medium.com/@esma.ea.aksoy)
+[![Linkedin](https://img.shields.io/badge/linkedin-%23FED794.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/esma-aksoy/)
+[![Gmail](https://img.shields.io/badge/gmail-%23FED794.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:esma.ea.aksoy@gmail.com)
+[![Medium](https://img.shields.io/badge/medium-%23FED794.svg?&style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@esma.ea.aksoy)
 <br>
 ## ***Skills***
+![React Badge](https://img.shields.io/badge/react-%23FED794.svg?style=for-the-badge&logo=react&logoColor=white)
+![Redux Badge](https://img.shields.io/badge/redux-%23FED794.svg?style=for-the-badge&logo=redux&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/css-%23FED794.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/javascript-%23FED794.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Firebase Badge](https://img.shields.io/badge/firebase-%23FED794.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%23FED794.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React Bootstrap Badge](https://img.shields.io/badge/react_bootstrap-%23FED794.svg?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS Badge](https://img.shields.io/badge/tailwind_css-%23FED794.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI Badge](https://img.shields.io/badge/material_ui-%23FED794.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![Postman Badge](https://img.shields.io/badge/postman-%23FED794.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Sass Badge](https://img.shields.io/badge/sass-%23FED794.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Formik Badge](https://img.shields.io/badge/formik-%23FED794.svg?style=for-the-badge&logo=formik&logoColor=white)
+![Yup Badge](https://img.shields.io/badge/yup-%23FED794.svg?style=for-the-badge&logo=yup&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/github-%23FED794.svg?style=for-the-badge&logo=github&logoColor=white)
+![Next.js Badge](https://img.shields.io/badge/next.js-%23FED794.svg?style=for-the-badge&logo=next-dot-js&logoColor=white)
+
+ <!--  ## ***Skills***
 <br>
-<p align="left"> 
+<p align="left">  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
@@ -41,7 +52,7 @@ Once a computer science teacher, I am now making the transition to become a full
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/349375/github.svg" alt="gitHub" height="40"/></a> 
 </p>
-
+-->
 ## ***My projects***
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
