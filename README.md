@@ -72,7 +72,7 @@ Once a computer science teacher, I am now making the transition to become a full
 | [BookStore-Checkout](https://our-bookstore-esma.netlify.app/) | React, Bootstrap, SweetAlert2, MOCK API, CRUD, axios, useState useEffect useNavigate Hooks, Router, CSS3  | [Repo Link](https://github.com/esmaaksoy/shopping)   |
 | [Wednesday](https://wednesday-esma.netlify.app/) | React, SASS, Bootstrap, Router  | [Repo Link](https://github.com/esmaaksoy/Wednesday)   |
 | [Tours](https://tours-esma.netlify.app/) | React,useState useEffect Hooks, API, Async, Await, CSS3  | [Repo Link](https://github.com/esmaaksoy/tours)   |
-| [Dear Diary](https://dear-diary-esma.netlify.app/) | React,React-Bootstrap, React-icons, useState Hooks  | [Repo Link](https://github.com/esmaaksoy?tab=repositories)   |
+| [Dear Diary](https://dear-diary-esma.netlify.app/) | React,React-Bootstrap, React-icons, useState Hooks  | [Repo Link](https://github.com/esmaaksoy/Dear-Diary)   |
 | [Random User](https://random-user-esma.netlify.app/) | React,SweetAlert2, useState useEffect Hooks, API, Async, Await  | [Repo Link](https://github.com/esmaaksoy/Random-User)   |
 | [Todo App](https://todo-app-esma.netlify.app/)      | React,React-icons, useState Hooks | [Repo Link](https://github.com/esmaaksoy/todo-app)     |
 | [Bookstore](https://bookstore-esma.netlify.app/)      | React, React-Bootstrap, React-icons, SASS | [Repo Link](https://github.com/esmaaksoy/bookstore)     |
