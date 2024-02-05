@@ -62,7 +62,7 @@ Once a computer science teacher, I am now making the transition to become a full
 ## ***My projects***
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
-| [Cactusink Blog](https://cactusink-esma.netlify.app/) | React, React-Redux, Redux Toolkit, Redux-persist, Yup, Formik, REST API, CRUD, Axios, Tailwind CSS,Prime-React, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/CactusInk)   |
+| [Cactusink Blog](https://cactusink-esma.netlify.app/) | React, React-Redux, Redux Toolkit, Redux-persist, Yup, Formik, REST API, CRUD, Axios, React-Helmet, Tailwind CSS,Prime-React, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/CactusInk)   |
 | [Stock Management System](https://stock-management-system-esma.netlify.app/) | React, React-Redux, Redux Toolkit, Redux-persist, Yup, Formik, REST API, CRUD, Material-UI, Tailwind CSS, Material Tailwind, ApexCharts, MUI Data Grid, React toastify | [Repo Link](https://github.com/esmaaksoy/Stock-Management-System)   |
 | [Todo List with Redux](https://todo-redux-esma.netlify.app/) | React, Redux, LocalStorage, MUI | [Repo Link](https://github.com/esmaaksoy/TodoList-with-Redux)   |
 | [Recipe App](https://recipe-app-esma.netlify.app/) |  React, Firebase, Context API, axios, MUI | [Repo Link](https://github.com/esmaaksoy/Recipe-App)   |
