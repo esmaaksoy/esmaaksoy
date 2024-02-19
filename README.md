@@ -2,15 +2,13 @@
 ## ***About Me***
 <br>
 <p align="left"> 
-Once a computer science teacher, I am now making the transition to become a fullStack developer. Fueled by my passion for coding and a relentless desire to learn, I am dedicated to improving my skills across a range of technologies. I document the progress of my projects here. Happy coding!👩‍💻 <br>
-  
-[My Portfolio website](https://esmaaksoy.com.tr/)
-
+Once a computer science teacher, I am now making the transition to become a fullStack developer. Fueled by my passion for coding and a relentless desire to learn, I am dedicated to improving my skills across a range of technologies. I document the progress of my projects here. Happy coding!👩‍💻 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=esmaaksoy&label=Profile%20views&color=FED794&style=for-the-badge" alt="esmaaksoy" /> 
 </p>
 
 ## ***Connect with me***
+[![Website](https://img.shields.io/badge/Portfolio-%23FED794.svg?style=for-the-badge&logo=Portfolio&logoColor=white)](https://esmaaksoy.com.tr/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%23FED794.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/esma-aksoy/)
 [![Gmail](https://img.shields.io/badge/gmail-%23FED794.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:esma.ea.aksoy@gmail.com)
 [![Medium](https://img.shields.io/badge/medium-%23FED794.svg?&style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@esma.ea.aksoy)
