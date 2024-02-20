@@ -1,4 +1,4 @@
-<img src="https://github.com/esmaaksoy/images/blob/main/IMG-20240116-WA0050.jpg" width="100%"></br>
+<img src="https://github.com/esmaaksoy/images/blob/main/esma-github.jpg" width="100%"></br>
 ## ***About Me***
 <br>
 <p align="left"> 
