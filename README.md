@@ -35,6 +35,7 @@ Once a computer science teacher, I am now making the transition to become a full
 [![Linux Badge](https://img.shields.io/badge/linux-%23FED794.svg?style=for-the-badge&logo=linux&logoColor=white)](https://your-linux-link-here)
 [![Figma Badge](https://img.shields.io/badge/figma-%23FED794.svg?style=for-the-badge&logo=figma&logoColor=white)](https://your-figma-link-here)
 [![Git Badge](https://img.shields.io/badge/git-%23FED794.svg?style=for-the-badge&logo=git&logoColor=white)](https://your-git-link-here)
+[![Cypress Badge](https://img.shields.io/badge/cypress-%23FED794.svg?style=for-the-badge&logo=cypress&logoColor=white)](https://your-cypress-link-here)
 
  <!--  ## ***Skills***
 <br>
