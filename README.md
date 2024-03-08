@@ -18,7 +18,6 @@ Once a computer science teacher, I am now making the transition to become a full
 ![CSS Badge](https://img.shields.io/badge/css-%23FED794.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/javascript-%23FED794.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/react-%23FED794.svg?style=for-the-badge&logo=react&logoColor=white)
-![Next.js Badge](https://img.shields.io/badge/next.js-%23FED794.svg?style=for-the-badge&logo=next-dot-js&logoColor=white)
 ![Redux Badge](https://img.shields.io/badge/redux-%23FED794.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Firebase Badge](https://img.shields.io/badge/firebase-%23FED794.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%23FED794.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -36,7 +35,24 @@ Once a computer science teacher, I am now making the transition to become a full
 [![Figma Badge](https://img.shields.io/badge/figma-%23FED794.svg?style=for-the-badge&logo=figma&logoColor=white)](https://your-figma-link-here)
 [![Git Badge](https://img.shields.io/badge/git-%23FED794.svg?style=for-the-badge&logo=git&logoColor=white)](https://your-git-link-here)
 [![Cypress Badge](https://img.shields.io/badge/cypress-%23FED794.svg?style=for-the-badge&logo=cypress&logoColor=white)](https://your-cypress-link-here)
-
+[![Visual Basic Badge](https://img.shields.io/badge/Visual_Basic-%23FED794.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://your-visual-basic-link-here)
+[![Next.js Badge](https://img.shields.io/badge/Next.js-%23FED794.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://your-next-js-link-here)
+[![Node.js Badge](https://img.shields.io/badge/Node.js-%23FED794.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js Badge](https://img.shields.io/badge/Express.js-%23FED794.svg?style=for-the-badge)](https://expressjs.com/)
+[![SQL Badge](https://img.shields.io/badge/SQL-%23FED794.svg?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-%23FED794.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite3 Badge](https://img.shields.io/badge/SQLite3-%23FED794.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-%23FED794.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-%23FED794.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Sequelize Badge](https://img.shields.io/badge/Sequelize-%23FED794.svg?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
+[![Mongoose Badge](https://img.shields.io/badge/Mongoose-%23FED794.svg?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
+[![ORM Badge](https://img.shields.io/badge/ORM-%23FED794.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping)
+[![ODM Badge](https://img.shields.io/badge/ODM-%23FED794.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Object%E2%80%93document_mapping)
+[![JWT Badge](https://img.shields.io/badge/JWT-%23FED794.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
+[![VSCode Badge](https://img.shields.io/badge/VS_Code-%23FED794.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Netlify Badge](https://img.shields.io/badge/Netlify-%23FED794.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![Figma Badge](https://img.shields.io/badge/Figma-%23FED794.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Arduino Badge](https://img.shields.io/badge/Arduino-%23FED794.svg?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
  <!--  ## ***Skills***
 <br>
 <p align="left">  
