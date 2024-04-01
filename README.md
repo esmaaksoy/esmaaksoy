@@ -112,7 +112,7 @@ Once a computer science teacher, I am now making the transition to become a full
 ## ***Backend Projects***
 | Project Live Link                 | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
-| [Personnel API]() | Node.js, Express.js, MongoDB, Mongoose, Single Token, Express Async Errors, Morgan, Swagger, Redoc | [Repo Link](https://github.com/esmaaksoy/personnelAPI)   |
+| [Personnel API]() | Node.js, Express.js, MongoDB, Mongoose, Single Token, Express Async Errors, Morgan, Swagger, Redoc, Logs | [Repo Link](https://github.com/esmaaksoy/personnelAPI)   |
 | [Home Page](https://home-backend-8cpw.onrender.com) | Node.js, Express.js, MongoDB, Mongoose, Cookie-Session, Express Async Errors | [Repo Link](https://github.com/esmaaksoy/Home-backend)   |
 | [Book Tracker](https://booktracker-65mo.onrender.com/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS| [Repo Link](https://github.com/esmaaksoy/bookTracker-Backend)   |
 
