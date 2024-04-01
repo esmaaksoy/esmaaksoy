@@ -76,10 +76,10 @@ Once a computer science teacher, I am now making the transition to become a full
 <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/349375/github.svg" alt="gitHub" height="40"/></a> 
 </p>
 -->
-## ***My projects***
+
+## **Frontend Projects**
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
-| [Book Tracker](https://book-tracker-frontend-five.vercel.app/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS, React,Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/bookTracker-Backend)   |
 | [Cactusink Blog](https://cactusink-esma.netlify.app/) | React, React-Redux, Redux Toolkit, Redux-persist, Yup, Formik, REST API, CRUD, Axios, React-Helmet, Tailwind CSS,Prime-React, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/CactusInk)   |
 | [Stock Management System](https://stock-management-system-esma.netlify.app/) | React, React-Redux, Redux Toolkit, Redux-persist, Yup, Formik, REST API, CRUD, Material-UI, Tailwind CSS, Material Tailwind, ApexCharts, MUI Data Grid, React toastify | [Repo Link](https://github.com/esmaaksoy/Stock-Management-System)   |
 | [Todo List with Redux](https://todo-redux-esma.netlify.app/) | React, Redux, LocalStorage, MUI | [Repo Link](https://github.com/esmaaksoy/TodoList-with-Redux)   |
@@ -107,4 +107,17 @@ Once a computer science teacher, I am now making the transition to become a full
 | [World Shop](https://world-shop.netlify.app/) | Bootstrap, SASS, Vite, Vanilla, Local Storage | [Repo Link](https://github.com/esmaaksoy/world-shop) |
 | [Checkout-Bootsrapt](https://explore-book.netlify.app/) | Bootstrap, Local Storage | [Repo Link](https://github.com/esmaaksoy/Checkout-Bootsrapt) |
 | [Hogwarts](https://esmaaksoy.github.io/Hogwarts-Website/) | Bootstrap | [Repo Link](https://github.com/esmaaksoy/Hogwarts-Website) |
+
+## **Fullstack Projects**
+| Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
+|-----------------------------|--------------------------------------|---------------------------|
+| [Book Tracker](https://book-tracker-frontend-five.vercel.app/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS, React,Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/bookTracker-Backend)   |
+
+## **Backend Projects**
+| Project Live Link                 | Libraries and Technologies I use      | Project Repo Link         |
+|-----------------------------|--------------------------------------|---------------------------|
+| [Personnel API]() | Node.js, Express.js, MongoDB, Mongoose, Single Token, Express Async Errors, Morgan, Swagger, Redoc | [Repo Link](https://github.com/esmaaksoy/personnelAPI)   |
+| [Home Page](https://home-backend-8cpw.onrender.com) | Node.js, Express.js, MongoDB, Mongoose, Cookie-Session, Express Async Errors | [Repo Link](https://github.com/esmaaksoy/Home-backend)   |
+| [Book Tracker](https://booktracker-65mo.onrender.com/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS| [Repo Link](https://github.com/esmaaksoy/bookTracker-Backend)   |
+
 
