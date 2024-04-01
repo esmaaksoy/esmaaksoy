@@ -77,7 +77,7 @@ Once a computer science teacher, I am now making the transition to become a full
 </p>
 -->
 
-## **Frontend Projects**
+## ***Frontend Projects***
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
 | [Cactusink Blog](https://cactusink-esma.netlify.app/) | React, React-Redux, Redux Toolkit, Redux-persist, Yup, Formik, REST API, CRUD, Axios, React-Helmet, Tailwind CSS,Prime-React, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/CactusInk)   |
@@ -108,12 +108,12 @@ Once a computer science teacher, I am now making the transition to become a full
 | [Checkout-Bootsrapt](https://explore-book.netlify.app/) | Bootstrap, Local Storage | [Repo Link](https://github.com/esmaaksoy/Checkout-Bootsrapt) |
 | [Hogwarts](https://esmaaksoy.github.io/Hogwarts-Website/) | Bootstrap | [Repo Link](https://github.com/esmaaksoy/Hogwarts-Website) |
 
-## **Fullstack Projects**
+## ***Fullstack Projects***
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
 | [Book Tracker](https://book-tracker-frontend-five.vercel.app/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS, React,Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/bookTracker-Backend)   |
 
-## **Backend Projects**
+## ***Backend Projects***
 | Project Live Link                 | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
 | [Personnel API]() | Node.js, Express.js, MongoDB, Mongoose, Single Token, Express Async Errors, Morgan, Swagger, Redoc | [Repo Link](https://github.com/esmaaksoy/personnelAPI)   |
