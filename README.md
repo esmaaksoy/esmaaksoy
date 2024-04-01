@@ -108,10 +108,6 @@ Once a computer science teacher, I am now making the transition to become a full
 | [Checkout-Bootsrapt](https://explore-book.netlify.app/) | Bootstrap, Local Storage | [Repo Link](https://github.com/esmaaksoy/Checkout-Bootsrapt) |
 | [Hogwarts](https://esmaaksoy.github.io/Hogwarts-Website/) | Bootstrap | [Repo Link](https://github.com/esmaaksoy/Hogwarts-Website) |
 
-## ***Fullstack Projects***
-| Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
-|-----------------------------|--------------------------------------|---------------------------|
-| [Book Tracker](https://book-tracker-frontend-five.vercel.app/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS, React,Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/bookTracker-Backend)   |
 
 ## ***Backend Projects***
 | Project Live Link                 | Libraries and Technologies I use      | Project Repo Link         |
@@ -119,5 +115,11 @@ Once a computer science teacher, I am now making the transition to become a full
 | [Personnel API]() | Node.js, Express.js, MongoDB, Mongoose, Single Token, Express Async Errors, Morgan, Swagger, Redoc | [Repo Link](https://github.com/esmaaksoy/personnelAPI)   |
 | [Home Page](https://home-backend-8cpw.onrender.com) | Node.js, Express.js, MongoDB, Mongoose, Cookie-Session, Express Async Errors | [Repo Link](https://github.com/esmaaksoy/Home-backend)   |
 | [Book Tracker](https://booktracker-65mo.onrender.com/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS| [Repo Link](https://github.com/esmaaksoy/bookTracker-Backend)   |
+
+
+## ***Fullstack Projects***
+| Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
+|-----------------------------|--------------------------------------|---------------------------|
+| [Book Tracker](https://book-tracker-frontend-five.vercel.app/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS, React,Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/bookTracker-Backend)   |
 
 
