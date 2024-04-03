@@ -77,12 +77,31 @@ Once a computer science teacher, I am now making the transition to become a full
 </p>
 -->
 
+## ***Fullstack Projects***
+| Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
+|-----------------------------|--------------------------------------|---------------------------|
+| [Home Page](https://home-page-esma.netlify.app/) | Node.js, Express.js, Mongoose , MongoDB, CORS, React, Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/Home-backend)   |
+| [Book Tracker](https://book-tracker-frontend-five.vercel.app/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS, React,Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/bookTracker-Backend)   |
+
+
+## ***Backend Projects***
+| Project Live Link                 | Libraries and Technologies I use      | Project Repo Link         |
+|-----------------------------|--------------------------------------|---------------------------|
+| [Personnel API]() | Node.js, Express.js, MongoDB, Mongoose, Single Token, Express Async Errors, Morgan, Swagger, Redoc, Logs | [Repo Link](https://github.com/esmaaksoy/personnelAPI)   |
+| [Home Page](https://home-backend-8cpw.onrender.com) | Node.js, Express.js, MongoDB, Mongoose, Cookie-Session, Express Async Errors | [Repo Link](https://github.com/esmaaksoy/Home-backend)   |
+| [Book Tracker](https://booktracker-65mo.onrender.com/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS| [Repo Link](https://github.com/esmaaksoy/bookTracker-Backend)   |
+
+
+
+
 ## ***Frontend Projects***
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
 | [Cactusink Blog](https://cactusink-esma.netlify.app/) | React, React-Redux, Redux Toolkit, Redux-persist, Yup, Formik, REST API, CRUD, Axios, React-Helmet, Tailwind CSS,Prime-React, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/CactusInk)   |
 | [Stock Management System](https://stock-management-system-esma.netlify.app/) | React, React-Redux, Redux Toolkit, Redux-persist, Yup, Formik, REST API, CRUD, Material-UI, Tailwind CSS, Material Tailwind, ApexCharts, MUI Data Grid, React toastify | [Repo Link](https://github.com/esmaaksoy/Stock-Management-System)   |
 | [Todo List with Redux](https://todo-redux-esma.netlify.app/) | React, Redux, LocalStorage, MUI | [Repo Link](https://github.com/esmaaksoy/TodoList-with-Redux)   |
+| [Home Page](https://home-page-esma.netlify.app/) |  React, Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/home-frontend)   |
+| [Book Tracker](https://book-tracker-frontend-five.vercel.app/) | React,Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/bookTracker-frontend)   |
 | [Recipe App](https://recipe-app-esma.netlify.app/) |  React, Firebase, Context API, axios, MUI, Cypress | [Repo Link](https://github.com/esmaaksoy/Recipe-App)   |
 | [Movie App](https://movie-app-esma.netlify.app/) | React, Firebase, Tailwind, Context API, axios, react-toastify | [Repo Link](https://github.com/esmaaksoy/Movie-App)   |
 | [Things Shop](https://things-shop-esma.netlify.app/) | React, Tailwind, Context API, axios, useLocation useState useEffect and useNavigate Hooks, sweetAlert2 | [Repo Link](https://github.com/esmaaksoy/Things-Shop)   |
@@ -100,26 +119,14 @@ Once a computer science teacher, I am now making the transition to become a full
 | [Moving Button](https://moving-button-esma.netlify.app/) | React, React-Bootstrap | [Repo Link](https://github.com/esmaaksoy/moving-button) |
 | [Employee](https://listemployee.netlify.app/) | React, SASS | [Repo Link](https://github.com/esmaaksoy/employee/tree/main?tab=readme-ov-file) |
 | [Birthday](https://birthdaysofauthors.netlify.app/) | React,CSS3 | [Repo Link](https://github.com/esmaaksoy/birthday) |
-| [Horoscope](https://horoscope-mysite.netlify.app/) | React, Module CSS | [Repo Link](https://github.com/esmaaksoy/horoscope) |
 | [M.Foucault](https://foucault.netlify.app/) | React, Module CSS | [Repo Link](https://github.com/esmaaksoy/M.Foucault) |
-| [Image Gallery](https://velvety-capybara-b13135.netlify.app/) | React, CSS3 | [Repo Link](https://github.com/esmaaksoy/image-galery) |
 | [Developer](https://comments-developer.netlify.app/) | React, SASS | [Repo Link](https://github.com/esmaaksoy/Developer) |
 | [World Shop](https://world-shop.netlify.app/) | Bootstrap, SASS, Vite, Vanilla, Local Storage | [Repo Link](https://github.com/esmaaksoy/world-shop) |
 | [Checkout-Bootsrapt](https://explore-book.netlify.app/) | Bootstrap, Local Storage | [Repo Link](https://github.com/esmaaksoy/Checkout-Bootsrapt) |
 | [Hogwarts](https://esmaaksoy.github.io/Hogwarts-Website/) | Bootstrap | [Repo Link](https://github.com/esmaaksoy/Hogwarts-Website) |
 
 
-## ***Backend Projects***
-| Project Live Link                 | Libraries and Technologies I use      | Project Repo Link         |
-|-----------------------------|--------------------------------------|---------------------------|
-| [Personnel API]() | Node.js, Express.js, MongoDB, Mongoose, Single Token, Express Async Errors, Morgan, Swagger, Redoc, Logs | [Repo Link](https://github.com/esmaaksoy/personnelAPI)   |
-| [Home Page](https://home-backend-8cpw.onrender.com) | Node.js, Express.js, MongoDB, Mongoose, Cookie-Session, Express Async Errors | [Repo Link](https://github.com/esmaaksoy/Home-backend)   |
-| [Book Tracker](https://booktracker-65mo.onrender.com/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS| [Repo Link](https://github.com/esmaaksoy/bookTracker-Backend)   |
 
 
-## ***Fullstack Projects***
-| Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
-|-----------------------------|--------------------------------------|---------------------------|
-| [Book Tracker](https://book-tracker-frontend-five.vercel.app/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS, React,Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/bookTracker-Backend)   |
 
 
