@@ -9,9 +9,9 @@ Once a computer science teacher, I am now making the transition to become a full
 
 ## ***Connect with me***
 [![Website](https://img.shields.io/badge/Portfolio-%23FED794.svg?style=for-the-badge&logo=Portfolio&logoColor=white)](https://esmaaksoy.com.tr/)
-[![Linkedin](https://img.shields.io/badge/linkedin-%23FED794.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/esma-aksoy/)
-[![Gmail](https://img.shields.io/badge/gmail-%23FED794.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:esma.ea.aksoy@gmail.com)
-[![Medium](https://img.shields.io/badge/medium-%23FED794.svg?&style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@esma.ea.aksoy)
+[![Linkedin](https://img.shields.io/badge/linkedin-%23FED794.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esma-aksoy/)
+[![Gmail](https://img.shields.io/badge/gmail-%23FED794.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:esma.ea.aksoy@gmail.com)
+[![Medium](https://img.shields.io/badge/medium-%23FED794.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@esma.ea.aksoy)
 <br>
 ## ***Skills***
 [![HTML5 Badge](https://img.shields.io/badge/html5-%23FED794.svg?style=for-the-badge&logo=html5&logoColor=white)](https://your-link-here)
