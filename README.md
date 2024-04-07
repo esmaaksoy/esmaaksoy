@@ -80,7 +80,7 @@ Once a computer science teacher, I am now making the transition to become a full
 ## ***Fullstack Projects***
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
-| [Home Page](https://home-page-esma.netlify.app/) | Node.js, Express.js, Mongoose , MongoDB, CORS, React, Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/Home-backend)   |
+| [Home Page](https://home-page-esma.netlify.app/) | Node.js, Express.js, Mongoose, MongoDB, CORS, React, Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/Home-backend)   |
 | [Book Tracker](https://book-tracker-frontend-five.vercel.app/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS, React,Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/bookTracker-Backend)   |
 
 
