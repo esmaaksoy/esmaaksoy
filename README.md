@@ -122,7 +122,6 @@ Once a computer science teacher, I am now making the transition to become a full
 | [M.Foucault](https://foucault.netlify.app/) | React, Module CSS | [Repo Link](https://github.com/esmaaksoy/M.Foucault) |
 | [Developer](https://comments-developer.netlify.app/) | React, SASS | [Repo Link](https://github.com/esmaaksoy/Developer) |
 | [World Shop](https://world-shop.netlify.app/) | Bootstrap, SASS, Vite, Vanilla, Local Storage | [Repo Link](https://github.com/esmaaksoy/world-shop) |
-| [Checkout-Bootsrapt](https://explore-book.netlify.app/) | Bootstrap, Local Storage | [Repo Link](https://github.com/esmaaksoy/Checkout-Bootsrapt) |
 | [Hogwarts](https://esmaaksoy.github.io/Hogwarts-Website/) | Bootstrap | [Repo Link](https://github.com/esmaaksoy/Hogwarts-Website) |
 
 
