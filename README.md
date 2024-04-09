@@ -104,7 +104,6 @@ Once a computer science teacher, I am now making the transition to become a full
 | [Book Tracker](https://book-tracker-frontend-five.vercel.app/) | React,Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/bookTracker-frontend)   |
 | [Recipe App](https://recipe-app-esma.netlify.app/) |  React, Firebase, Context API, axios, MUI, Cypress | [Repo Link](https://github.com/esmaaksoy/Recipe-App)   |
 | [Movie App](https://movie-app-esma.netlify.app/) | React, Firebase, Tailwind, Context API, axios, react-toastify | [Repo Link](https://github.com/esmaaksoy/Movie-App)   |
-| [Things Shop](https://things-shop-esma.netlify.app/) | React, Tailwind, Context API, axios, useLocation useState useEffect and useNavigate Hooks, sweetAlert2 | [Repo Link](https://github.com/esmaaksoy/Things-Shop)   |
 | [Color Generator](https://color-generator-esma.netlify.app/) | React, useState and useEffect Hooks, CSS3  | [Repo Link](https://github.com/esmaaksoy/Color-Generator)   |
 | [BookStore-Checkout](https://our-bookstore-esma.netlify.app/) | React, Bootstrap, SweetAlert2, MOCK API, CRUD, axios, useState useEffect useNavigate Hooks, Router, CSS3  | [Repo Link](https://github.com/esmaaksoy/shopping)   |
 | [Wednesday](https://wednesday-esma.netlify.app/) | React, SASS, Bootstrap, Router  | [Repo Link](https://github.com/esmaaksoy/Wednesday)   |
