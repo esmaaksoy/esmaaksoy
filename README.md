@@ -81,13 +81,15 @@ Happy coding!👩‍💻
 ## ***Fullstack Projects***
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
-| [Home Page](https://home-page-esma.netlify.app/) | Node.js, Express.js, Mongoose, MongoDB, CORS, React, Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/Home-backend)   |
-| [Book Tracker](https://book-tracker-frontend-five.vercel.app/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS, React,Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/esmaaksoy/bookTracker-Backend)   |
+| [Stock Management System]() | Node.js, Express.js, Mongoose, MongoDB, React, Redux Toolkit, Redux persist, Tailwind CSS | [Repo Link](https://github.com/esmaaksoy/Stock-Management-System-Backend)   |
+| [Home Page](https://home-page-esma.netlify.app/) | Node.js, Express.js, Mongoose, MongoDB, React, Tailwind CSS, Context API | [Repo Link](https://github.com/esmaaksoy/Home-backend)   |
+| [Book Tracker](https://book-tracker-frontend-five.vercel.app/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS, React,Tailwind CSS, CRUD, Context API| [Repo Link](https://github.com/esmaaksoy/bookTracker-Backend)   |
 
 
 ## ***Backend Projects***
 | Project Live Link                 | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
+| [Stock Management System]() | Node.js, Express.js, MongoDB, Mongoose, Single Token, JWT, Morgan, Multer, Nodemailer, Express Async Errors, Swagger, Redoc, Logs | [Repo Link](https://github.com/esmaaksoy/Stock-Management-System-Backend)   |
 | [Personnel API]() | Node.js, Express.js, MongoDB, Mongoose, Single Token, Express Async Errors, Morgan, Swagger, Redoc, Logs | [Repo Link](https://github.com/esmaaksoy/personnelAPI)   |
 | [Home Page](https://home-backend-8cpw.onrender.com) | Node.js, Express.js, MongoDB, Mongoose, Cookie-Session, Express Async Errors | [Repo Link](https://github.com/esmaaksoy/Home-backend)   |
 | [Book Tracker](https://booktracker-65mo.onrender.com/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS| [Repo Link](https://github.com/esmaaksoy/bookTracker-Backend)   |
