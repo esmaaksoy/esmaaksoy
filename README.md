@@ -2,7 +2,7 @@
 ## ***About Me***
 <br>
 <p align="left"> 
-Once a computer science teacher, I am now making the transition to become a fullStack developer. Fueled by my passion for coding and a relentless desire to learn, I am dedicated to improving my skills across a range of technologies. I document the progress of my projects here. Happy coding!👩‍💻 
+Once a Computer Instructor, I am now making the transition to become a FullStack Developer. Fueled by my passion for coding and a relentless desire to learn, I am dedicated to improving my skills across a range of technologies. I document the progress of my projects here. Happy coding!👩‍💻 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=esmaaksoy&label=Profile%20views&color=FED794&style=for-the-badge" alt="esmaaksoy" /> 
 </p>
