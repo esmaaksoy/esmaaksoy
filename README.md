@@ -1,19 +1,22 @@
 <img src="https://github.com/esmaaksoy/images/blob/main/esma-github.jpg" width="100%"></br>
 ## ***About Me***
 <p align="left"> 
-Once a Computer Instructor, I am now making the transition to become a FullStack Developer. Fueled by my passion for coding and a relentless desire to learn, I am dedicated to improving my skills across a range of technologies. I document the progress of my projects here. <br> 
-Happy coding!👩‍💻 
- <br>  <br>
-<p align="left"> 
+Once a Computer Instructor, I am now making the transition to become a FullStack Developer. Fueled by my passion for coding and a relentless desire to learn, I am dedicated to improving my skills across a range of technologies. I document the progress of my projects here. <br> <br> 
+
+  <span align="left"> 
   <img src="https://komarev.com/ghpvc/?username=esmaaksoy&label=Profile%20views&color=FED794&style=for-the-badge" alt="esmaaksoy" /> 
-</p>
+</span>
+
+<img src="https://esmaaksoy.com.tr/static/media/me.58820e547d92199b38ee.gif" width="30%" align="right">
+
+
 
 ## ***Connect with me***
 [![Website](https://img.shields.io/badge/Portfolio-%23FED794.svg?style=for-the-badge&logo=Portfolio&logoColor=white)](https://esmaaksoy.com.tr/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%23FED794.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esma-aksoy/)
 [![Gmail](https://img.shields.io/badge/gmail-%23FED794.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:esma.ea.aksoy@gmail.com)
-[![Medium](https://img.shields.io/badge/medium-%23FED794.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@esma.ea.aksoy)
-<br>
+[![Medium](https://img.shields.io/badge/medium-%23FED794.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@esma.ea.aksoy) <br>
+
 ## ***Skills***
 [![HTML5 Badge](https://img.shields.io/badge/html5-%23FED794.svg?style=for-the-badge&logo=html5&logoColor=white)](https://your-link-here)
 ![CSS Badge](https://img.shields.io/badge/css-%23FED794.svg?style=for-the-badge&logo=css3&logoColor=white)
